@@ -1,3 +1,6 @@
+![Call Center Analysis Screenshot](https://github.com/gauravv2110/Call-Centre-Analysis-2023/blob/main/Call%20Centre%20Analysis.png)
+
+
 # Call Center Performance Analysis 📞📊
 
 ## Project Overview
